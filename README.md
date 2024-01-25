@@ -4,8 +4,7 @@
        alt="snake" /></a>
 </div>
 
-### Hi there 👋
-
+<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Justin De Roover </b></h1>
 <!-----
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
