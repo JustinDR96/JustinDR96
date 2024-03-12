@@ -14,9 +14,8 @@
 <img width = '32px' align= 'center' src="/svg/devicons/html5-original.svg"/>
 <img width = '32px' align= 'center' src="/svg/devicons/javascript-original.svg"/>
 <img width = '32px' align= 'center' src="/svg/devicons/typescript-original.svg"/>
-<img width = '32px' align= 'center' src="/svg/devicons/nextjs-original.svg"/>
+<img width = '32px' align= 'center' fill= 'white' src="/svg/devicons/nextjs-original.svg"/>
 <img width = '32px' align= 'center' src="/svg/devicons/nodejs-original.svg"/>
-<img width = '32px' align= 'center' src="/svg/devicons/php-original.svg"/>
 <img width = '32px' align= 'center' src="/svg/devicons/react-original.svg"/>
 <img width = '32px' align= 'center' src="/svg/devicons/sass-original.svg"/>
 <img width = '32px' align= 'center' src="/svg/devicons/bootstrap-original.svg"/>
