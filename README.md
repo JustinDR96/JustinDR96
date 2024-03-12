@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Justin De Roover </b></h1>
-<p align="center">A passionate Frontend Developer specialized in creating engaging user interfaces and experiences. I love exploring new technologies and applying them to solve real-world problems.</p>
+<p align="left">A passionate Frontend Developer specialized in creating engaging user interfaces and experiences. I love exploring new technologies and applying them to solve real-world problems.</p>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinDR96&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
