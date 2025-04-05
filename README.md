@@ -1,74 +1,62 @@
-<h1 align="center">Salut 👋, moi c'est Justin</h1>
-<h3 align="center">Développeur Web créatif & passionné par l'UI/UX</h3>
+# 👋 Hello, moi c’est Justin – Développeur Web Front-End
 
-<p align="center">
-  <img src="https://github.com/JustinDR96.png" width="150" alt="avatar" style="border-radius: 50%" />
-</p>
+Bienvenue sur mon GitHub !
 
----
-
-🎯 **Qui suis-je ?**
-
-Je suis un développeur frontend basé en Belgique, passionné par la création de sites modernes, fluides et animés.  
-Mon objectif : offrir des expériences utilisateur mémorables grâce à des interfaces réactives, accessibles et bien pensées.
-
-🛠 Je code principalement avec **React**, **JavaScript**, **SCSS**, et j’aime jouer avec des librairies comme **GSAP** pour donner vie à mes projets.
+Je suis un développeur web passionné basé en Belgique, spécialisé dans la création d’interfaces modernes, rapides et intuitives.  
+Formé chez BeCode puis plongé dans le concret d’une start-up tech, j’ai rapidement appris à concevoir des projets de A à Z, avec rigueur, curiosité et créativité.
 
 ---
 
-## 🚀 Mes projets phares
+## 🚀 Ce que je fais au quotidien
 
-- 🎮 [**IGDB**](https://github.com/JustinDR96/IGDB)  
-  ➤ Interface dynamique pour découvrir des jeux vidéos via l’API IGDB
-
-- 📝 [**Firebase Note**](https://github.com/JustinDR96/firebase-note)  
-  ➤ Application de prise de notes avec base de données en temps réel (Firebase)
-
-- 🍣 [**Sushi Master**](https://github.com/JustinDR96/sushi_master)  
-  ➤ Site vitrine d’un restaurant de sushis avec animations GSAP
+- 🌐 Développement front-end avec **React**, **Vite** et **SCSS**
+- 🎨 Intégration de designs avec souci du détail (et amour du pixel perfect)
+- ✨ Création d’expériences fluides avec **GSAP** & animations sur mesure
+- 🔌 Intégration d’**API** (TMDB, IGDB, Fake Store...)
+- 🧠 Tests d’outils IA & automatisation pour améliorer mon workflow
+- 🔄 Git & GitHub pour une gestion de projet propre et collaborative
 
 ---
 
-## 🛠️ Mes compétences techniques
+## 🛠️ Compétences techniques
 
-### 👨‍💻 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=black)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
+| Langages        | Frameworks & outils      | APIs / BDD             |
+|-----------------|--------------------------|------------------------|
+| HTML, CSS, JS   | React, Vite, GSAP, SCSS  | Firebase, IGDB, TMDB   |
+| Git, GitHub     | Next.js (en découverte)  | FakeStore API, MongoDB |
+| Responsive UI   | Figma                    | Supabase               |
 
-### ⚙️ Outils & Autres
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+---
+
+## 🧰 Projets récents
+
+📦 [TCG Pocket Clone](https://tcg-clone.vercel.app/)  
+🎮 [GameCenter IGDB](https://gamecenter96.vercel.app/)  
+🍣 [Restaurant Le Gourmet](https://le-gourmet.vercel.app/)  
+🎬 [FlexFlix (cinéma)](https://plex-clone-iota.vercel.app/)  
+🛍️ [Fake Store](https://e-shop-one-kappa.vercel.app/)  
+⚡ [GSAP Animations](https://gsap-react-eta.vercel.app/)
+
+---
+
+## 📫 Me contacter
+
+- ✉️ justin.deroover.dev@gmail.com  
+- 🌐 [Mon portfolio](https://justinderoover.com)  
+- 💼 [LinkedIn (à ajouter)](https://linkedin.com/in/...)  
+- 🎨 Bientôt : un compte dev + animations 3D en ligne !
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustinDR96&show_icons=true&theme=tokyonight" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinDR96&theme=tokyonight" alt="streak stats"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustinDR96&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JustinDR96&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JustinDR96&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustinDR96&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JustinDR96&theme=tokyonight&utcOffset=1)
 
----
 
-## 🌍 Me retrouver ailleurs
+Merci d’être passé.  
+Si mes projets vous plaisent, n’hésitez pas à mettre une ⭐ ou à me contacter pour collaborer !
 
-- 💼 [Portfolio](https://portfolio-jdr.vercel.app/)
-- 📫 [LinkedIn](https://www.linkedin.com/in/de-roover-justin-4791a1265)
-
----
-
-## 📩 Me contacter
-
-Je suis toujours ouvert à discuter de nouveaux projets ou d'opportunités freelance !  
-→ [Contacte-moi via LinkedIn](https://www.linkedin.com/in/de-roover-justin-4791a1265)
-
----
-
-<p align="center">✨ Merci d'avoir visité mon profil GitHub ! ✨</p>
