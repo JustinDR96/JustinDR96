@@ -1,5 +1,9 @@
 # 👋 Hello, moi c’est Justin – Développeur Web Front-End
 
+<p align="center">
+  <img src="https://github.com/JustinDR96.png" width="150" alt="avatar" style="border-radius: 50%" />
+</p>
+
 Bienvenue sur mon GitHub !
 
 Je suis un développeur web passionné basé en Belgique, spécialisé dans la création d’interfaces modernes, rapides et intuitives.  
