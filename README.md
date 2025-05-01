@@ -47,8 +47,7 @@ Formé chez BeCode puis plongé dans le concret d’une start-up tech, j’ai ra
 
 - ✉️ justin.deroover.dev@gmail.com  
 - 🌐 [Mon portfolio](https://justinderoover.com)  
-- 💼 [LinkedIn (à ajouter)](https://linkedin.com/in/...)  
-- 🎨 Bientôt : un compte dev + animations 3D en ligne !
+- 💼 [LinkedIn](https://www.linkedin.com/in/derooverjustin/)  
 
 ---
 
